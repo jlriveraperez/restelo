@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "id": "deporte",
+      "title": "Deporte",
+      "category": "Deporte",
+      "content": "Restelo ofrece numerosas instalaciones deportivas..."
+    },
+    {
+      "id": "ocio",
+      "title": "Ocio",
+      "category": "Ocio",
+      "content": "En Restelo hay abundantes áreas verdes..."
+    },
+    {
+      "id": "vivienda",
+      "title": "Vivienda",
+      "category": "Vivienda",
+      "content": "Restelo cuenta con edificaciones más modernas..."
+    },
+    {
+      "id": "transporte",
+      "title": "Transporte",
+      "category": "Transporte",
+      "content": "Restelo dispone de mejores accesos viales..."
+    }
+  ]
+}
